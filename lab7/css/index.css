@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: navy;
+    padding: 25px;
+    font-size: 200%;
+    color: gold;
+}
+
+div.base {
+    padding: 50px;
+    background-color: purple;
+    border: solid 1px #333333;
+    color: white;
+
+}
+h1{
+  color: white;
+}
+
+h1, h2, h3 {
+    font-family: "Courier New", monospace;
+}
+
+img {
+    float: right;
+    width: 500px;
+    height: auto;
+}
