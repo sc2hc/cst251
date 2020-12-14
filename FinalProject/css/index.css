@@ -1,5 +1,5 @@
 .col {
-  min-height: 200px;
+  min-height: 500px;
   /* text-align: center; */
   /*border: solid 1px black;*/
   /* min-width: 200px; */
@@ -25,6 +25,10 @@ head{
     font-family: Helvetica;
 }
 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
     position: relative;
     width: 300px;
     height: auto;
@@ -36,9 +40,12 @@ img {
     width:500px;
     height:auto;
     display:block;
-    z-index:999;
+    transition: width 2s;
     box-shadow: 5px 5px #84dcc6;
 }
 nav{
   background-color: #95a3b3;
+}
+#grad {
+  background-image: linear-gradient(#163379, #4b0082, #00008b,#5c9730,#800080, #e50914,#222222);
 }
