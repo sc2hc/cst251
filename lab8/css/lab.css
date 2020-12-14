@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, Verdana, Arial, "san serif";
-    background-color: teal;
+    background-color: cyan;
     padding: 25px;
     font-size: 200%;
     color: grey;
@@ -20,9 +20,21 @@ h1{
 h1, h2, h3 {
     font-family: "Courier New", monospace;
 }
-
+.solution{
+  background-color: white;
+  color:grey;
+  border-spacing: 50px;
+}
+.popup:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:1000px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
 img {
-    float: right;
-    width: 500px;
+    width: 300px;
     height: auto;
 }

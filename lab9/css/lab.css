@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: cyan;
+    padding: 100px;
+    font-size: 150%;
+    color: grey;
+}
+
+div.base {
+    padding: 50px;
+    background-color: silver;
+    border: solid 5px #333333;
+    color: white;
+    width: 1000px;
+    height: auto;
+
+}
+h1{
+  color: white;
+}
+
+h1, h2, h3 {
+    font-family: "Courier New", monospace;
+}
+.solution{
+  background-color: white;
+  color:grey;
+  border-spacing: 100px;
+  width: 75%;
+  height: auto;
+  font-size: 100%;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+#style{
+  width:450px;
+  height: auto;
+
+}

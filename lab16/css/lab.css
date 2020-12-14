@@ -1,0 +1,47 @@
+
+body {
+    font-family: Impact, Tahoma, "san serif";
+    background-color: black;
+    padding: 100px;
+    font-size: 150%;
+    color: white;
+}
+
+div.base {
+    padding: 50px;
+    background-color: grey;
+    border: solid 5px #333333;
+    color: orange;
+    width: 1000px;
+    height: auto;
+    text-shadow: 3px 3px #ff0000;
+    box-shadow: 5px 5px #ff0000;
+    background-image:radial-gradient(white,black);
+    border-radius: 15px;
+
+
+}
+
+.solution{
+  background-color: white;
+  color:black;
+  border-spacing: 100px;
+  width: 75%;
+  height: auto;
+  font-size: 100%;
+  filter: invert(100%);
+  transform: rotate(10deg);
+
+}
+
+img {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+}
+#style{
+  width:450px;
+  height: auto;
+  border: solid 5px #333333;
+
+}
