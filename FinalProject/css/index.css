@@ -1,7 +1,7 @@
 .col {
   min-height: 200px;
   /* text-align: center; */
-  border: solid 1px black;
+  /*border: solid 1px black;*/
   /* min-width: 200px; */
 }
 
@@ -10,7 +10,7 @@
 }
 
 .row {
-  border: solid 1px gray;
+/*  border: solid 1px gray;*/
   /* padding: 10px; */
 }
 body {
