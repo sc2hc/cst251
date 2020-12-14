@@ -28,7 +28,7 @@ img {
     position: relative;
     width: 300px;
     height: auto;
-    border: 7px solid #4b4e6d;
+    border: 5px solid #4b4e6d;
     border-radius: 15px;
 }
 .popup:hover {
@@ -37,7 +37,7 @@ img {
     height:auto;
     display:block;
     z-index:999;
-    box-shadow: 2px 2px #84dcc6;
+    box-shadow: 5px 5px #84dcc6;
 }
 nav{
   background-color: #95a3b3;
